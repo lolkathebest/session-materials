@@ -16,4 +16,4 @@
 12. [Свойства и графики тригонометрических функций](12-svoystva-i-grafiki-trigonometricheskih-funktsiy.md)
 13. [Обратные тригонометрические функции. Простейшие тригонометрические уравнения](13-obratnye-trigonometricheskie-funktsii-prosteyshie-trigonometricheskie.md)
 14. [Тригонометрические уравнения](14-trigonometricheskie-uravneniya.md)
-15. Тригонометрические неравенства — *готовится*
+15. [Тригонометрические неравенства](15-trigonometricheskie-neravenstva.md)
